@@ -42,6 +42,6 @@ Built to support both physical and digital libraries with remote access, full ca
 - Subhojit Dey
 
 ## License
-MIT License (or your preferred one)
+MIT License 
 
 
